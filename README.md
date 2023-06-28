@@ -8,6 +8,7 @@ Amazon Rekognitionによるストリーミング動画分析を行うために�
 | Kinesis Video Streams | AWS によるストリーミング動画分析・再生のためのサービスです。 |
 | Rekognition | 画像認識AIに特化したサービスです | 
 | Kinesis Data Streams | 大量のストリームデータをリアルタイムで収集するための サーバーレスストリーミングデータサービス | 
+| S3 | 顔検出に使用する顔画像のデータセットの格納に利用 |
 
 
 
